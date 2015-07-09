@@ -3,7 +3,7 @@ from lxml import etree
 from splinter.exceptions import ElementDoesNotExist
 
 htmldata = []
-fileHandle = open('data1213.csv','a')
+fileHandle = open('data1112.csv','a')
 fileHandle.write('commodity;variety;market;arrival;minprice;maxprice;modalprice;day;month;year\n')
 
 def browserDataAutomation():    
@@ -12,9 +12,9 @@ def browserDataAutomation():
         for month in ['April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December', 'January', 'February', 'March']:
             yc += 1
             if yc > 9:
-                year = '2013'
-            else:
                 year = '2012'
+            else:
+                year = '2011'
                 
             for day in xrange(1,32):
                 url = 'http://agmarknet.nic.in/agnew/NationalBEnglish/CommodityDailyStateWise.aspx?ss=2'
