@@ -1,7 +1,7 @@
 import urllib, json
 
 def distinctAPMCNames():
-	fileHandle = open('data1314.csv','r')
+	fileHandle = open('./data/data1314.csv','r')
 	#commodity;variety;market;arrival;minprice;maxprice;modalprice;day;month;year
 	firstline = True
 	names = []
