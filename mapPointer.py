@@ -19,6 +19,31 @@ def distinctAPMCNames():
 	print "The distinct markets are: ", len(names)
 	return names
 
+def ambigiousnames():
+	fileHandle = open('./data/ambiguousnamesCorrected.csv','r')
+	outHandle = open('latlongdataMH.csv','a')
+	ambigous = []
+
+	for line in fileHandle:
+		line = line.strip()
+		latlong = findLatLong(line)
+		apmc = line.split(",", 1)[0]
+
+		if len(latlong) > 1:
+			ambigous.append(apmc)
+			continue
+
+		for ltll in latlong:
+			outHandle.write( apmc + ";")
+			outHandle.write(str(ltll['lat']) + ";")
+			outHandle.write(str(ltll['lng']) + ";")
+		outHandle.write("\n")
+		print "completed..", apmc
+
+	fileHandle.close()
+	outHandle.close()
+	print ambigous
+	
 def findLatLong(placeName):
 	url = "https://maps.googleapis.com/maps/api/geocode/json?address=" + placeName + ",+Maharashtra&region=in&components=administrative_area:MH|country:IN&key=AIzaSyDXu1bbOBWNqRMNNXUMt-Y9Zdr1HqCPGoY"
 	res = urllib.urlopen(url)
@@ -40,15 +65,15 @@ def preparePositions():
 		latlong = findLatLong(name)
 		if len(latlong) > 1:
 			ambigous.append(name)
+			continue
 
 		for ltll in latlong:
-			fileHandle.write(name + ";")
 			fileHandle.write(str(ltll['lat']) + ";")
 			fileHandle.write(str(ltll['lng']) + ";")
 		fileHandle.write("\n")
 		print "completed..", name
 	fileHandle.close()
-	print ambigous
 
 if __name__ == '__main__':
 	preparePositions()
+	ambigiousnames()

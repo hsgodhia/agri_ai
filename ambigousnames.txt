@@ -1,5 +1,3 @@
-['Kille Dharur', 'Bhokar', 'Loha', 'Pandharpur', 'Selu', 'Solapur', 'Jalgaon', 'Amgaon', 'Armori(Desaiganj)', 'Chamorshi', 'Ghoti', 'Ashti', 'Sengoan', 'Anajngaon', 'Arvi', 'Narkhed', 'Telhara', 'Fruit Market',
- 'Kalamb', 'Nagpur(Hingna)', 'Pune(Khadiki)', 'Pune(Pimpri)', 'Satara', 'Khed', 'Lonand', 'Beed', 'Malegaon', 'Parola', 'Pathari', 'Sangli', 'Murud', 'Sonpeth', 'Lakhani', 'Mandhal', 'Nandgaon', 'Satana', 'Inda
-pur(Nimgaon Ketki)', 'Aarni', 'Indapur', 'Akola', 'Arjuni', 'Bhiwapur', 'Babhulgaon', 'Manora', 'Nanggaon', 'Buldhana(Dhad)', 'Daryapur', 'Digras', 'Naigaon', 'Sindi', 'Amalner', 'Khamgaon', 'Vani', 'Varud', 'W
-ashim', 'Patan', 'Karjat', 'Pimpalgaon', 'Gangapur', 'Vita', 'Malkapur', 'Ner Parasopant', 'Karanja', 'Dindori', 'Savali', 'Mahad', 'Balapur', 'Bori Arab', 'Paranda', 'Navapur', 'Chikali', 'Khed(Chakan)', 'Mahu
-r', 'Maregoan', 'Washi(Thane  Market)', 'Islampur']
+['Arjuni', 'Arvi', 'Ashti', 'Balapur', 'Bhiwapur', 'Chamorshi', 'Chikali', 'Daryapur', 'Digras', 'Dindori', 'Fruit Market', 'Jalgaon', 'Khamgaon', 'Khed', 'Khed(Chakan)', 'Mahad', 'Malegaon', 'Maregoan', 'Nagpu
+r(Hingna)', 'Naigaon', 'Nandgaon', 'Nanggaon', 'Ner Parasopant', 'Pimpalgaon', 'Pune(Khadiki)', 'Pune(Pimpri)', 'Sangli', 'Satara', 'Selu', 'Sindi', 'Solapur', 'Washi(Thane  Market)', 'Indapur(Nimgaon Ketki)',
+'Kille Dharur', 'Mahur', 'Washim']
