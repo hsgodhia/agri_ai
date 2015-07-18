@@ -1,0 +1,47 @@
+[('Hippe Seed', 2.0), ('Chrysanthemum(Loose)', 2.0), ('Niger Seed (Ramtil)', 2.8), ('Sugarcane', 3.0), ('Jute', 3.5), ('French Beans (Frasbean)', 5.5), ('Sunflower', 5.714285714285714), ('Marygold(Calcutta)', 6
+.0), ('Horses Gram', 8.45), ('Jamun', 9.0), ('Other Fruits', 11.0), ('Neem Seed', 11.714285714285714), ('Other Oil Seed', 12.0), ('Safflower', 12.03125), ('Groundnut pods (raw)', 12.803571428571429), ('Dry Grap
+es', 13.666666666666666), ('Linseed', 13.714285714285714), ('He Buffalo', 14.0), ('Banana - Green', 14.0), ('Rajgir', 15.8), ('Castor Seed', 16.227272727272727), ('Maize', 16.975), ('Mustard', 18.86956521739130
+5), ('Sesamum(Sesame,Gingelly,Til)', 19.568181818181817), ('Tamarind Seed', 19.833333333333332), ('Sheep', 21.0), ('Cotton', 21.390625), ('Ox', 23.727272727272727), ('Mataki', 23.96551724137931), ('Sweet Potato
+', 24.705882352941178), ('Cowpea (Lobia)(Asparagus)', 24.842105263157894), ('Paddy(Dhan)', 24.942857142857143), ('Cow', 25.2), ('She Buffalo', 26.7), ('Corriander seed', 27.615384615384617), ('Goat', 28.1818181
+81818183), ('Black Grams (Urd Beans)', 28.387096774193548), ('Seetapal', 29.6), ('Karbuja', 29.6), ('Green Grams (Moong)', 31.725925925925925), ('Other Pulses', 33.5), ('Jowar(Sorgham)', 35.309734513274336), ('
+Tamarind Fruit', 35.5), ('Mango', 36.166666666666664), ('Lentil(Masur)', 39.0), ('Arhar (Tur)', 39.5748502994012), ('Bajra(Pearl Millet)', 41.308411214953274), ('Methi Seeds', 41.4), ('Green Peas', 41.8125), ('
+Rice', 42.78378378378378), ('Groundnut', 43.55555555555556), ('Bengal Grams(Gram)', 46.95135135135135), ('Mango (Raw-Ripe)', 49.77777777777778), ('Guava', 53.54545454545455), ('Chili Red', 54.43333333333333), (
+'Leafy Vegetable', 56.5), ('Garlic', 59.77777777777778), ('Gur(Jaggery)', 63.15), ('Beans', 63.375), ('Soyabean', 64.6094674556213), ('Snakeguard', 65.0), ('Wheat', 65.83888888888889), ('Grapes', 66.76923076923
+077), ('Beetroot', 66.91666666666667), ('Orange', 67.3076923076923), ('Turmeric', 69.33333333333333), ('Raddish', 69.38461538461539), ('Drumstick', 69.88235294117646), ('Peas Wet', 70.66666666666667), ('Sweet P
+umpkin', 73.3), ('Jack Fruit', 75.5), ('Onion', 76.75324675324676), ('Carrot', 77.21739130434783), ('Chikoos(Sapota)', 79.05882352941177), ('Guar', 81.9), ('Ginger', 82.7), ('Potato', 84.85714285714286), ('Bana
+na', 88.84615384615384), ('Water Melon', 89.5), ('Ajwan', 91.66666666666667), ('Pumpkin', 97.5), ('Pomegranate', 97.63636363636364), ('Coriander', 99.66666666666667), ('Pointed gourd (Parval)', 100.666666666666
+67), ('Masur Dal', 104.0), ('Sweet Lime', 108.85714285714286), ('Chilly Capsicum', 110.81481481481481), ('Ridgeguard(Tori)', 114.86666666666666), ('Bitter gourd', 115.1), ('Apple', 116.66666666666667), ('Bhindi
+(Ladies Finger)', 119.41666666666667), ('Little gourd (Kundru)', 119.66666666666667), ('Bottle gourd', 119.77272727272727), ('Tomato', 121.0), ('Lime', 123.28571428571429), ('Cucumbar', 127.5), ('Cummin Seed(Je
+era)', 131.0), ('Green Chilly', 133.96875), ('Cauliflower', 134.80645161290323), ('Coconut', 137.5), ('Elephant Yam (Suran)', 138.33333333333334), ('Brinjal', 139.71428571428572), ('Green Gram Dal', 145.0), ('C
+abbage', 145.24137931034483), ('Soanf', 145.5), ('Methi', 155.9), ('Cardamoms', 190.0), ('Cashewnuts', 246.0), ('Arecanut(Betelnut/Supari)', 254.0), ('Sugar', 275.0), ('Pine Apple', 277.0)]
+*********
+[('Sugar', 0.0), ('Cardamoms', 0.0), ('Other Fruits', 0.0), ('Cashewnuts', 0.0), ('Arecanut(Betelnut/Supari)', 0.0), ('Sugarcane', 0.0), ('Chrysanthemum(Loose)', 0.0), ('Jute', 0.5), ('Banana - Green', 1.0), ('
+Hippe Seed', 1.0), ('Marygold(Calcutta)', 1.4142135623730951), ('Niger Seed (Ramtil)', 1.469693845669907), ('Pine Apple', 2.0), ('French Beans (Frasbean)', 4.5), ('Sunflower', 7.850646665162335), ('Jamun', 8.16
+496580927726), ('Neem Seed', 8.907689867497083), ('Dry Grapes', 9.741092797468305), ('Horses Gram', 10.552132485900659), ('He Buffalo', 12.58570617804182), ('Rajgir', 13.585286158193357), ('She Buffalo', 14.366
+976021418008), ('Sheep', 15.088627063675034), ('Other Oil Seed', 15.556349186104045), ('Tamarind Seed', 17.20868643705524), ('Ox', 17.62276889342519), ('Cow', 17.66238941932829), ('Groundnut pods (raw)', 18.125
+967602602962), ('Safflower', 20.330833072884644), ('Goat', 21.126537305303884), ('Sesamum(Sesame,Gingelly,Til)', 21.200769419220194), ('Castor Seed', 21.315661801045), ('Cotton', 21.952090722967025), ('Karbuja'
+, 26.51490147068248), ('Maize', 27.567632742040075), ('Linseed', 28.09786105593035), ('Paddy(Dhan)', 28.948173253141164), ('Mango', 30.245752686212914), ('Other Pulses', 31.7214438511238), ('Mango (Raw-Ripe)',
+32.31710169133976), ('Seetapal', 33.8325287260648), ('Green Grams (Moong)', 34.25729003349444), ('Mustard', 36.59211645651951), ('Mataki', 38.432639467731065), ('Black Grams (Urd Beans)', 39.88532817213915), ('
+Bengal Grams(Gram)', 41.124370506126915), ('Arhar (Tur)', 43.789426332283966), ('Jowar(Sorgham)', 44.88709132017972), ('Bajra(Pearl Millet)', 46.31432858258016), ('Corriander seed', 47.56621047233241), ('Lentil
+(Masur)', 52.591190643807764), ('Leafy Vegetable', 55.5), ('Garlic', 56.10858080103411), ('Tamarind Fruit', 56.84568425291245), ('Cowpea (Lobia)(Asparagus)', 58.46840186477221), ('Wheat', 58.747497713982014), (
+'Pointed gourd (Parval)', 58.80098260705816), ('Sweet Potato', 59.970350228878885), ('Groundnut', 61.072108766079154), ('Soyabean', 61.92409100230669), ('Turmeric', 62.58718363655259), ('Rice', 62.7927242880958
+2), ('Beans', 65.17272723309958), ('Raddish', 68.12379959313718), ('Jack Fruit', 69.5), ('Onion', 70.09291715225683), ('Gur(Jaggery)', 70.75328614276512), ('Green Peas', 71.32427597774827), ('Guava', 71.9259260
+8354241), ('Methi Seeds', 73.8176130743876), ('Chili Red', 73.93857059899267), ('Carrot', 73.98881027134185), ('Orange', 74.66786417749206), ('Peas Wet', 75.71510930968651), ('Ajwan', 76.52595783276561), ('Chik
+oos(Sapota)', 81.36878328163426), ('Drumstick', 81.95614491044168), ('Ginger', 83.09097423908328), ('Grapes', 83.46823794451474), ('Beetroot', 83.87138798316278), ('Snakeguard', 85.30679926008243), ('Guar', 85.
+4690392286392), ('Banana', 85.8915650500418), ('Bitter gourd', 86.1302695533535), ('Lime', 86.73722925466038), ('Sweet Lime', 87.98364875918475), ('Ridgeguard(Tori)', 89.13350785323229), ('Potato', 93.650762442
+82503), ('Pomegranate', 95.58458674462372), ('Methi', 95.7), ('Bhindi(Ladies Finger)', 96.07675606282488), ('Coriander', 96.35082501712935), ('Cucumbar', 96.39355095994061), ('Chilly Capsicum', 96.7145617122257
+9), ('Cabbage', 97.52405721681464), ('Tomato', 97.63903395866303), ('Pumpkin', 97.92088643389621), ('Sweet Pumpkin', 98.35247836226598), ('Brinjal', 98.9731771538045), ('Apple', 99.8576764978815), ('Green Gram
+Dal', 101.0), ('Cauliflower', 104.04261513835715), ('Bottle gourd', 104.88302220620571), ('Coconut', 110.5), ('Green Chilly', 111.04010659864075), ('Water Melon', 112.54147383668536), ('Little gourd (Kundru)',
+112.88145207350153), ('Elephant Yam (Suran)', 114.03313358649562), ('Masur Dal', 114.68507604159603), ('Soanf', 121.5), ('Cummin Seed(Jeera)', 123.0)]
+*********
+[('Sunflower', 1), ('Other Oil Seed', 1), ('Mustard', 2), ('Chrysanthemum(Loose)', 2), ('Hippe Seed', 3), ('Sugarcane', 3), ('Safflower', 3), ('Green Peas', 4), ('Jamun', 4), ('Jute', 4), ('Horses Gram', 4), ('
+Niger Seed (Ramtil)', 4), ('Castor Seed', 4), ('Linseed', 4), ('Methi Seeds', 5), ('Corriander seed', 5), ('Cowpea (Lobia)(Asparagus)', 5), ('Marygold(Calcutta)', 5), ('Mataki', 6), ('Lentil(Masur)', 6), ('Swee
+t Potato', 6), ('Maize', 6), ('Groundnut pods (raw)', 6), ('Groundnut', 8), ('He Buffalo', 8), ('Tamarind Fruit', 8), ('Neem Seed', 9), ('Rice', 10), ('French Beans (Frasbean)', 10), ('Paddy(Dhan)', 10), ('Dry
+Grapes', 10), ('Other Fruits', 11), ('Sesamum(Sesame,Gingelly,Til)', 11), ('Black Grams (Urd Beans)', 12), ('Rajgir', 14), ('Banana - Green', 15), ('Cotton', 16), ('Karbuja', 16), ('Jowar(Sorgham)', 18), ('Guav
+a', 19), ('Bajra(Pearl Millet)', 20), ('Green Grams (Moong)', 21), ('Arhar (Tur)', 22), ('Sheep', 23), ('Ox', 23), ('Cow', 24), ('Seetapal', 26), ('Other Pulses', 26), ('Tamarind Seed', 27), ('She Buffalo', 28)
+, ('Water Melon', 29), ('Goat', 33), ('Mango', 33), ('Beetroot', 34), ('Chili Red', 35), ('Bengal Grams(Gram)', 35), ('Drumstick', 36), ('Snakeguard', 38), ('Turmeric', 38), ('Mango (Raw-Ripe)', 41), ('Grapes',
+ 42), ('Soyabean', 44), ('Banana', 44), ('Gur(Jaggery)', 44), ('Guar', 45), ('Orange', 45), ('Coriander', 46), ('Masur Dal', 47), ('Wheat', 49), ('Ajwan', 50), ('Beans', 54), ('Raddish', 54), ('Sweet Pumpkin',
+56), ('Carrot', 56), ('Potato', 57), ('Chikoos(Sapota)', 57), ('Peas Wet', 60), ('Onion', 63), ('Pumpkin', 64), ('Garlic', 64), ('Pomegranate', 64), ('Little gourd (Kundru)', 65), ('Ginger', 70), ('Pointed gour
+d (Parval)', 75), ('Chilly Capsicum', 81), ('Sweet Lime', 85), ('Apple', 87), ('Bottle gourd', 91), ('Cucumbar', 95), ('Bitter gourd', 102), ('Elephant Yam (Suran)', 107), ('Ridgeguard(Tori)', 108), ('Leafy Veg
+etable', 112), ('Tomato', 113), ('Brinjal', 115), ('Bhindi(Ladies Finger)', 116), ('Cabbage', 119), ('Cauliflower', 124), ('Green Chilly', 126), ('Lime', 127), ('Jack Fruit', 145), ('Cardamoms', 190), ('Methi',
+ 205), ('Cashewnuts', 246), ('Green Gram Dal', 246), ('Coconut', 248), ('Cummin Seed(Jeera)', 254), ('Arecanut(Betelnut/Supari)', 254), ('Soanf', 267), ('Sugar', 275), ('Pine Apple', 279)]
